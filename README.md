@@ -12,7 +12,7 @@ A school's coffee shop has decided to do the serving of the kids that want to bu
 
 Here's a given example: 
 
-![Screenshot](screenshot_2.png)
+![Screenshot](Screenshot_2.png)
 
 Also here are some test files: https://drive.google.com/drive/folders/1G0pdx5Qm_x2iTm_jvYIDCj8LYbhniadF
 
